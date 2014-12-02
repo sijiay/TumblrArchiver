@@ -1,0 +1,17 @@
+[
+	{
+		"photo-name": Photo 1,
+		"photo-likes": 4,
+		"photo-date": "10/12/13"
+	},
+	{
+		"photo-name": Photo 2,
+		"photo-likes": 5,
+		"photo-date": "2/12/14"
+	},
+	{
+		"photo-name": Photo 3,
+		"photo-likes": 6,
+		"photo-date": "8/12/14"
+	}
+]
